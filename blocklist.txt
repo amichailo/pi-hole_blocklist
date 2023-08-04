@@ -24586,7 +24586,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads1.msn.com
 127.0.0.1 aidps.atdmt.com
-127.0.0.1 aka-cdn-ns.adtech.de127.0.0.1
+127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 array101-prod.do.dsp.mp.microsoft.com
 127.0.0.1 array102-prod.do.dsp.mp.microsoft.com
 127.0.0.1 array103-prod.do.dsp.mp.microsoft.com
